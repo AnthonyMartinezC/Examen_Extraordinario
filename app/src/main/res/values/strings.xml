@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Recetas</string>
+    <string name="nohay">No hay productos en ese momento</string>
+    <string name="alldificulties">All dificulties</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="imagen_de_receta">Imagen de receta</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="Cooking_time">Cooking time</string>
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="instructions">INSTRUCTIONS</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
